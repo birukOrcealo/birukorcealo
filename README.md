@@ -1,5 +1,6 @@
 [![MasterHead](https://stock.adobe.com/uk/search?k=website+banner&asset_id=268488616)]
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.co.uk/pin/coding-gif-coding-discover-share-gifs">
+<img align="right" alt="Coding" width="400" src="https://github.com/birukOrcealo/birukorcealo/assets/118835094/1160df34-3b29-4bdc-b83d-3cc09fbe938b">
+
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Biruk Orcealo</h1>
 <h3 align="center">I am a passionate Data Engineer, Data Scientist and Electronic Engineer</h3>
