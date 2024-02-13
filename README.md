@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://github.com/birukOrcealo/birukorcealo/assets/118835094/d5785a43-ca0e-4347-a585-dca9fac3d6ad)]-->
-[![MasterHead](https://i.pinimg.com/originals/cd/76/d7/cd76d793c30eb1d8afdb9193ce0b8984.jpg)]
-<img align="right" alt="Coding" width="400" src="https://github.com/birukOrcealo/birukorcealo/assets/118835094/1160df34-3b29-4bdc-b83d-3cc09fbe938b">
+![MasterHead](https://i.pinimg.com/originals/cd/76/d7/cd76d793c30eb1d8afdb9193ce0b8984.jpg)
+<!--<img align="right" alt="Coding" width="400" src="https://github.com/birukOrcealo/birukorcealo/assets/118835094/1160df34-3b29-4bdc-b83d-3cc09fbe938b">-->
 
 <h1 align="center">Hi 👋, I'm Biruk Orcealo</h1>
 <h3 align="center">I am a passionate Data Engineer, Data Scientist and Electronic Engineer</h3>
@@ -43,14 +43,12 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukOrcealo&layout=compact&theme=" alt=birukOrcealo />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=birukOrcealo&show_icons=true&locale=en&theme=" alt="birukOrcealo" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=birukOrcealo&theme=" alt="birukOrcealo" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/birukOrcealo">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=birukOrcealo&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=birukOrcealo&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=birukOrcealo&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=birukOrcealo&theme=2077" height="180em" />
