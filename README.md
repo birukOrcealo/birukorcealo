@@ -1,16 +1,16 @@
-[![MasterHead](https://stock.adobe.com/uk/search?k=website+banner&asset_id=268488616)]
+<!--[![MasterHead](https://github.com/birukOrcealo/birukorcealo/assets/118835094/d5785a43-ca0e-4347-a585-dca9fac3d6ad)]-->
+[![MasterHead](https://i.pinimg.com/originals/cd/76/d7/cd76d793c30eb1d8afdb9193ce0b8984.jpg)]
 <img align="right" alt="Coding" width="400" src="https://github.com/birukOrcealo/birukorcealo/assets/118835094/1160df34-3b29-4bdc-b83d-3cc09fbe938b">
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Biruk Orcealo</h1>
 <h3 align="center">I am a passionate Data Engineer, Data Scientist and Electronic Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birukOrcealo&label=Profile%20views&color=0e75b6&style=flat" alt="birukOrcealo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=birukOrcealo&theme=" alt="birukOrcealo" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=birukOrcealo&theme=" alt="birukOrcealo" /></a> </p>-->
 
 - 🔭 I’m currently working on [Pinterest Data Pipeline ](https://github.com/birukOrcealo/Pintrest-data-pipline)
-- 🌱 I’m currently learning **Machine Learning **
-- 💬 Ask me about **AWS Data Services **
+- 🌱 I’m currently learning **Machine Learning**
+- 💬 Ask me about **AWS Data Services**
 - 📫 How to reach me **borcealo7@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/biruk-orcealo-ambcs-634341267/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
